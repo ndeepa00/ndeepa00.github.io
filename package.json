@@ -1,0 +1,30 @@
+{
+  "name": "gatsby-starter-portfolio-minimal-theme",
+  "version": "1.0.0",
+  "description": "Deepa's personal portfolio",
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "gatsby": "^5.0.1",
+    "gatsby-theme-portfolio-minimal": "4.6.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "author": "Deepa Neupane",
+  "license": "0BSD",
+  "keywords": [
+    "deepa",
+    "neupane",
+    "portfolio",
+    "nepal",
+    "microbiology",
+    "researcher"
+  ]
+}
