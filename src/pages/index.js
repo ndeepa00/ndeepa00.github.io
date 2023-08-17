@@ -12,7 +12,7 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Deepa Neupane - Microbiology Nepal" />
+      <Seo title="Deepa Neupane - Microbiologist, Nepal" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <ArticlesSection
@@ -20,7 +20,7 @@ export default function IndexPage() {
           heading="Latest Articles"
           sources={["blog"]}
         />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
+        <AboutSection sectionId="about" heading="About" />
         <InterestsSection sectionId="details" heading="Details" />
         <ContactSection sectionId="github" heading="Contact" />
       </Page>
