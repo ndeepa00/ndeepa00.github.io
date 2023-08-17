@@ -1,7 +1,7 @@
 ---
 title: "My first article"
 description: "This is my first ever blog post."
-date: "2021-05-28"
+date: "2023-08-18"
 banner:
   src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
   alt: "My first post"
